@@ -1,6 +1,8 @@
 # اكتشف وزنك
 # Discover your weight
 
+![](demo.gif)
+
 Know your weight on other plantes
 
 ## Getting Started
